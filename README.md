@@ -36,3 +36,5 @@ mom 🧡 | cat lady 🐱 | bookworm 📚 | swiftie 🎵
 ## let's connect 🤝
 
 always down to talk AI, marketing, books, or life in general.
+
+📓 follow along with my [learning log](https://github.com/J3nn-AI/learning-log)
